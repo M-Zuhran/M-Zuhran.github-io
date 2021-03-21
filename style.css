@@ -1,0 +1,33 @@
+body {
+  background: rgb(139, 139, 139);
+  background: linear-gradient(135deg, rgba(139, 139, 139, 1) 15%, rgba(0, 0, 0, 1) 41%, rgba(139, 139, 139, 1) 60%, rgba(0, 0, 0, 1) 80%);
+}
+.navbar-brand {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.jumbotron {
+  padding: 2.5rem 3rem;
+  padding-top: 6rem;
+  padding-bottom: 10rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bi {
+  font-size: 20px;
+  margin-left: 2rem;
+}
+.display-6 {
+  margin-left: 2.5rem;
+}
+#about {
+  padding-bottom: 15rem;
+}
+#project {
+  padding-bottom: 15rem;
+}
+
+#contact {
+  padding-bottom: 5rem;
+}
+section {
+  padding-top: 5rem;
+}
